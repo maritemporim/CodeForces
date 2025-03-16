@@ -1,3 +1,5 @@
+// Link do CodeForces: https://codeforces.com/problemset/problem/1154/A
+// Código: 1154A
 // Autora: Mariana Temporim Ferreira
 
 #include <stdio.h>

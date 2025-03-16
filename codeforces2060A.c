@@ -1,3 +1,5 @@
+// Link do CodeForces: https://codeforces.com/problemset/problem/2060/A
+// Código: 2060A
 // Autora: Mariana Temporim Ferreira
 
 #include <stdio.h>

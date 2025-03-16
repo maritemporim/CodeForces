@@ -1,3 +1,5 @@
+// Link do CodeForces: https://codeforces.com/problemset/problem/818/A
+// Código: 814A
 // Autora: Mariana Temporim Ferreira
 
 #include <stdio.h>
